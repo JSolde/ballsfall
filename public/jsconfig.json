@@ -1,0 +1,8 @@
+{
+  "include": [
+    "*.js",
+    "d:\\p5-lib\\p5\\p5.min.js",
+    "d:\\p5-lib\\p5\\addons\\p5.sound.min.js",
+    "c:\\Users\\jordi\\.vscode\\extensions\\samplavigne.p5-vscode-1.2.8\\p5types\\global.d.ts"
+  ]
+}
