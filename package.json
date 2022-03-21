@@ -1,14 +1,30 @@
 {
-  "name": "nodeapp1",
+  "name": "ballsfall",
   "version": "1.0.0",
   "description": "test of node app",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "JSM",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1"
-  }
+    "express": "^4.17.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSolde/ballsfall.git"
+  },
+  "keywords": [
+    "P5.js",
+    "WebGL"
+  ],
+  "engines": {
+    "node": "14.18.1"
+  },
+  "bugs": {
+    "url": "https://github.com/JSolde/ballsfall/issues"
+  },
+  "homepage": "https://github.com/JSolde/ballsfall#readme"
 }
